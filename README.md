@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="1042" height="396" alt="image" src="https://github.com/user-attachments/assets/0a2d79e3-8526-4688-bff5-2443b3aee383" />
-
 # 🚀 Free AI Learning Resources
 
 ### *Your curated gateway to mastering Artificial Intelligence - completely free*
