@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # 🚀 Free AI Learning Resources
 
 ### *Your curated gateway to mastering Artificial Intelligence - completely free*
