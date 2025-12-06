@@ -28,6 +28,7 @@ A carefully curated collection of **high quality, completely free AI learning re
 
 ### ✨ What Makes These Resources Special?
 
+
 - ✅ **100% Free** - No hidden costs, free to audit courses, or genuinely free platforms
 - 🎓 **Quality Verified** - Resources from top institutions (Stanford, MIT, Google, DeepMind)
 - 🔄 **Regularly Updated** - New resources added, outdated ones removed
