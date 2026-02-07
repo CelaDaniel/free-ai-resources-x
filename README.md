@@ -4,7 +4,7 @@
 
 # Free AI Learning Resources X
 
-### Your open-source gateway to mastering AI completely free, forever.
+### Your open source gateway to mastering AI completely free, forever.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
@@ -15,7 +15,7 @@
 [![Website](https://img.shields.io/badge/Website-danielcela.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white)](https://danielcela.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel)
 
-**411+ hand-picked resources** · **30 specialized categories** · **100% free** · **Community driven**
+**411+ hand picked resources** · **30 specialized categories** · **100% free** · **Community driven**
 
 [Start Learning](#-pick-your-path) · [Browse All Categories](#-all-categories) · [Contribute](CONTRIBUTING.md)
 
@@ -30,7 +30,7 @@ Most "awesome lists" are just link dumps. This one is different:
 - **Structured for learning** — Resources organized by topic AND difficulty (`Beginner` → `Intermediate` → `Advanced`)
 - **Quality over quantity** — Every resource is verified: free, high-quality, and from reputable sources (Stanford, MIT, Google, DeepMind, fast.ai, Hugging Face)
 - **Practical paths** — Not sure where to start? Follow our [learning paths](#-pick-your-path) below
-- **Always current** — Community-maintained and regularly updated
+- **Always current** — Community maintained and regularly updated
 
 ---
 
@@ -69,8 +69,8 @@ Not sure where to start? Choose your level:
 
 | Topic | Resource |
 |-------|----------|
-| Multi-agent systems | [**AI Agents**](resources/ai-agents.md) |
-| Graph-based learning | [**Graph Neural Networks**](resources/graph-neural-networks.md) |
+| Multi agent systems | [**AI Agents**](resources/ai-agents.md) |
+| Graph based learning | [**Graph Neural Networks**](resources/graph-neural-networks.md) |
 | Model interpretability | [**Explainable AI**](resources/explainable-ai.md) |
 | AI safety & alignment | [**AI Ethics**](resources/ai-ethics.md) + [**AI Security**](resources/ai-security-privacy.md) |
 | Frontier research | [**AI Research & Papers**](resources/ai-research.md) |
