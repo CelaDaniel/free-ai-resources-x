@@ -47,7 +47,7 @@ Not sure where to start? Choose your level:
 | 1 | Learn Python basics | [**Python for AI**](resources/python-for-ai.md) |
 | 2 | Build math intuition | [**Mathematics for AI**](resources/mathematics-for-ai.md) |
 | 3 | Understand ML fundamentals | [**Machine Learning**](resources/machine-learning.md) |
-| 4 | Get hands-on with frameworks | [**AI Tools & Frameworks**](resources/ai-tools-frameworks.md) |
+| 4 | Get hands on with frameworks | [**AI Tools & Frameworks**](resources/ai-tools-frameworks.md) |
 | 5 | Try your first project | [**Data Science**](resources/data-science.md) |
 
 ### 🟡 "I know the basics, want to specialize"
