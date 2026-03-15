@@ -16,6 +16,7 @@
 - [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - Open-source creative AI toolkit with professional features. `Beginner`
 - [Civitai](https://civitai.com/) - Community platform for sharing models, LoRAs, and prompts. `All Levels`
 - [OpenArt](https://openart.ai/) - Platform for discovering AI art workflows and prompts. `Beginner`
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for branded clips, launch visuals, and product creative. `Beginner`
 
 ### Reading & Research
 
