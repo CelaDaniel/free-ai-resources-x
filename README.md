@@ -3,6 +3,7 @@
 <img src="https://img.shields.io/badge/AI-Learning_Resources-blue?style=for-the-badge&logo=openai&logoColor=white" alt="AI Learning Resources"/>
 
 # Free AI Learning Resources X
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ### Your open source gateway to mastering AI completely free, forever.
 
