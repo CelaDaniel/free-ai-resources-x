@@ -4,6 +4,7 @@
 
 # Free AI Learning Resources X
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Free and open-source, MIT licensed.
 ### Your open source gateway to mastering AI completely free, forever.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
