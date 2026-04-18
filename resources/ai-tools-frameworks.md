@@ -25,3 +25,7 @@
 - [Label Studio](https://labelstud.io/) - Open-source data labeling tool for ML projects. `Beginner`
 - [Optuna Documentation](https://optuna.readthedocs.io/) - Automatic hyperparameter optimization framework. `Intermediate`
 - [ONNX (Open Neural Network Exchange)](https://onnx.ai/) - Open format for sharing ML models between frameworks. `Intermediate`
+
+### AI API Platforms
+
+- [OpenNode](https://onc.mom) - Decentralized GPU compute marketplace with OpenAI-compatible API. Access GPT-4o, Claude 3.5 Haiku, Gemini 2.5 Flash at 80% lower cost. Drop-in replacement for OpenAI SDK. `Intermediate`
