@@ -10,6 +10,7 @@
 - [Google Cloud: Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) - Comprehensive learning path from Google. `Beginner`
 - [DeepLearning.AI: How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) - Short course on the math and code behind diffusion. `Intermediate`
 - [Hugging Face: Diffusion Models Course](https://huggingface.co/learn/diffusion-course/unit0/1) - Hands-on course on building and understanding diffusion models. `Intermediate`
+- [Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/) - Seminar course on the latest Transformer research and applications. `Intermediate`
 
 ### Books & Reading
 
