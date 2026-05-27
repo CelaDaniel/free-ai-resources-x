@@ -16,6 +16,7 @@
 - [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - Open-source creative AI toolkit with professional features. `Beginner`
 - [Civitai](https://civitai.com/) - Community platform for sharing models, LoRAs, and prompts. `All Levels`
 - [OpenArt](https://openart.ai/) - Platform for discovering AI art workflows and prompts. `Beginner`
+- [PhotoRestore.ai](https://photorestore.ai) - AI-powered old photo restoration — repairs scratches, fading, tears, and colorizes B&W images. `Beginner`
 
 ### Reading & Research
 
