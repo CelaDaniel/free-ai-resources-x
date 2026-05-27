@@ -16,6 +16,7 @@
 - [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - Open-source creative AI toolkit with professional features. `Beginner`
 - [Civitai](https://civitai.com/) - Community platform for sharing models, LoRAs, and prompts. `All Levels`
 - [OpenArt](https://openart.ai/) - Platform for discovering AI art workflows and prompts. `Beginner`
+- [igly.ai](https://igly.ai) - Browser-based AI image editor for background removal, inpainting, upscaling, and generative fill. [Demo](https://www.youtube.com/watch?v=HB2E1WZ12is) `Beginner`
 
 ### Reading & Research
 
