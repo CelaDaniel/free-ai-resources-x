@@ -131,6 +131,7 @@ Not sure where to start? Choose your level:
 | [**AI Hardware & Infrastructure**](resources/ai-hardware.md) | GPUs, TPUs, distributed training, CUDA | 14 |
 | [**Edge AI & IoT**](resources/edge-ai-iot.md) | TinyML, on-device ML, embedded systems | 14 |
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Free MCP server for AI agent trust scoring on Solana. Verify agent wallet identity and autonomy level before authorizing x402 micropayments. Zero-install: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### 🔒 Security & Ethics
 *Responsible, safe, and secure AI development*
 
