@@ -13,6 +13,7 @@
 - [Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Popular open-source UI for running Stable Diffusion locally. `Beginner`
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion with advanced workflows. `Intermediate`
 - [Hugging Face Diffusers](https://huggingface.co/docs/diffusers/index) - Python library for state-of-the-art diffusion models. `Intermediate`
+- [igly.ai](https://igly.ai) - AI image editing platform for background removal, inpainting, upscaling, and generative fill. Demo: https://www.youtube.com/watch?v=HB2E1WZ12is `Beginner`
 - [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - Open-source creative AI toolkit with professional features. `Beginner`
 - [Civitai](https://civitai.com/) - Community platform for sharing models, LoRAs, and prompts. `All Levels`
 - [OpenArt](https://openart.ai/) - Platform for discovering AI art workflows and prompts. `Beginner`
