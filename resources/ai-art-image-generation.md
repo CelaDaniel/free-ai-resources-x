@@ -16,6 +16,7 @@
 - [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - Open-source creative AI toolkit with professional features. `Beginner`
 - [Civitai](https://civitai.com/) - Community platform for sharing models, LoRAs, and prompts. `All Levels`
 - [OpenArt](https://openart.ai/) - Platform for discovering AI art workflows and prompts. `Beginner`
+- [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation (Seedream 5.0/4.5/4.0, ByteDance) with one-click image-to-video animation via Kling 2.1. Free tier available. `Beginner`
 
 ### Reading & Research
 
