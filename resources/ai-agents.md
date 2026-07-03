@@ -17,6 +17,7 @@
 - [AutoGen (Microsoft)](https://microsoft.github.io/autogen/) - Framework for building multi-agent conversational systems. `Intermediate`
 - [Semantic Kernel (Microsoft)](https://learn.microsoft.com/en-us/semantic-kernel/overview/) - SDK for integrating LLMs into applications with agent capabilities. `Intermediate`
 - [Anthropic: Tool Use Documentation](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) - Building tool-using AI agents with Claude. `Intermediate`
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web/mobile tests with SKILL.md modules for authoring, debugging, and triage. `Intermediate`
 
 ### Reading & Research
 
