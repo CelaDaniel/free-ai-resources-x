@@ -131,6 +131,7 @@ Not sure where to start? Choose your level:
 | [**AI Hardware & Infrastructure**](resources/ai-hardware.md) | GPUs, TPUs, distributed training, CUDA | 14 |
 | [**Edge AI & IoT**](resources/edge-ai-iot.md) | TinyML, on-device ML, embedded systems | 14 |
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
 ### 🔒 Security & Ethics
 *Responsible, safe, and secure AI development*
 
