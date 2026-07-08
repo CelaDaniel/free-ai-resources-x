@@ -4,9 +4,9 @@
 
 # Free AI Learning Resources X
 
+- [EditTools](https://edittools.org) - All-in-one browser-based file editor for PDF, images, audio, and video. Hundreds of free tools to edit and convert fi...
 ### Your open source gateway to mastering AI completely free, forever.
 
-- [ConvertTool](https://converttool.org) - Free online file converter with 300+ tools for PDF, images, audio, and video. Convert instantly in your browser — no ...
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
