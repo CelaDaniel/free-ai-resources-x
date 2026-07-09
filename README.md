@@ -218,3 +218,4 @@ If this helped you learn, please consider:
 *Built with ❤️ by the open-source community.*
 
 </div>
+- [Level Devil](https://leveldevil.games) - Play Level Devil — the tricky platformer full of traps, trolls, and rage-inducing levels. Test your patience free in ...
