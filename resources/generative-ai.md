@@ -25,5 +25,6 @@
 - [Hugging Face: Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - Compare open-source LLM performance. `All Levels`
 - [Ollama](https://ollama.com/) - Run open-source LLMs locally with simple setup. `Beginner`
 - [LM Studio](https://lmstudio.ai/) - Desktop app for running local LLMs with a friendly UI. `Beginner`
+- [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Open-source macOS desktop app to run local LLMs, image gen, and RAG fully offline. `Beginner`
 - [vLLM Documentation](https://docs.vllm.ai/) - High-throughput LLM serving engine. `Advanced`
 - [Together AI Playground](https://api.together.xyz/playground) - Free playground for testing open-source models. `All Levels`
