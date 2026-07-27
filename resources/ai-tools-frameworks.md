@@ -25,3 +25,9 @@
 - [Label Studio](https://labelstud.io/) - Open-source data labeling tool for ML projects. `Beginner`
 - [Optuna Documentation](https://optuna.readthedocs.io/) - Automatic hyperparameter optimization framework. `Intermediate`
 - [ONNX (Open Neural Network Exchange)](https://onnx.ai/) - Open format for sharing ML models between frameworks. `Intermediate`
+
+### Free AI APIs & Platforms
+
+- [Gracestack Chat API](https://tools.gracestack.se/api.html) - Free API for DeepSeek V4 Pro on A100 GPUs (3 calls/day, instant key, no credit card). `Beginner`
+- [Gracestack Code Lab](https://tools.gracestack.se/code-lab.html) - Free AI code explainer — paste any code, get instant explanations. `Beginner`
+- [Gracestack Bride Live](https://tools.gracestack.se/bride-live.html) - Public cognitive AI dashboard — HDC vectors, anomaly detection, dream synthesis. `Intermediate`

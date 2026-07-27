@@ -27,3 +27,4 @@
 - [LM Studio](https://lmstudio.ai/) - Desktop app for running local LLMs with a friendly UI. `Beginner`
 - [vLLM Documentation](https://docs.vllm.ai/) - High-throughput LLM serving engine. `Advanced`
 - [Together AI Playground](https://api.together.xyz/playground) - Free playground for testing open-source models. `All Levels`
+- [Gracestack Chat](https://tools.gracestack.se/api.html) - Free DeepSeek V4 Pro on A100 GPUs with instant API key (3 free calls/day, OpenAI-compatible). `Beginner`
