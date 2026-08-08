@@ -27,3 +27,4 @@
 - [LM Studio](https://lmstudio.ai/) - Desktop app for running local LLMs with a friendly UI. `Beginner`
 - [vLLM Documentation](https://docs.vllm.ai/) - High-throughput LLM serving engine. `Advanced`
 - [Together AI Playground](https://api.together.xyz/playground) - Free playground for testing open-source models. `All Levels`
+- [Vivideo](https://vivideo.ai) - Hands-on AI video generator for practicing text-to-video and image-to-video across multiple models (free tier available). `Beginner`
