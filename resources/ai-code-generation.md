@@ -23,3 +23,4 @@
 - [AlphaCode (DeepMind)](https://deepmind.google/discover/blog/competitive-programming-with-alphacode/) - Research on AI for competitive programming. `Advanced`
 - [GitHub Blog: AI in Software Development](https://github.blog/category/ai-ml/) - Articles on AI-assisted development trends. `All Levels`
 - [The Stack (Hugging Face)](https://huggingface.co/datasets/bigcode/the-stack) - Open dataset for code LLM training and research. `Advanced`
+- [Yupi's Vibe Coding Guide](https://github.com/liyupi/ai-guide) - Free Chinese handbook on AI-assisted development, covering tool selection, prompting, end-to-end projects, and deployment. `All Levels`
