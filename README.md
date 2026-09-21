@@ -218,3 +218,5 @@ If this helped you learn, please consider:
 *Built with ❤️ by the open-source community.*
 
 </div>
+
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
