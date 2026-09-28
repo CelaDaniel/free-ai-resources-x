@@ -10,6 +10,8 @@
 
 ### Tools & Platforms
 
+- [Raphael AI](https://raphael.app) - Free unlimited AI image generator from text prompts. `Beginner`
+
 - [Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Popular open-source UI for running Stable Diffusion locally. `Beginner`
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based UI for Stable Diffusion with advanced workflows. `Intermediate`
 - [Hugging Face Diffusers](https://huggingface.co/docs/diffusers/index) - Python library for state-of-the-art diffusion models. `Intermediate`
