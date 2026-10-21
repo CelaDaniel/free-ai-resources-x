@@ -4,6 +4,7 @@
 
 # Free AI Learning Resources X
 
+- [British Accent Generator](https://britishaccent.pro/) - Free-tier AI British TTS (262 UK voices); paid packs for longer scripts.
 ### Your open source gateway to mastering AI completely free, forever.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
