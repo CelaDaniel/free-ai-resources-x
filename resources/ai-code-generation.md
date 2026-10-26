@@ -23,3 +23,5 @@
 - [AlphaCode (DeepMind)](https://deepmind.google/discover/blog/competitive-programming-with-alphacode/) - Research on AI for competitive programming. `Advanced`
 - [GitHub Blog: AI in Software Development](https://github.blog/category/ai-ml/) - Articles on AI-assisted development trends. `All Levels`
 - [The Stack (Hugging Face)](https://huggingface.co/datasets/bigcode/the-stack) - Open dataset for code LLM training and research. `Advanced`
+- [Jvlang AI Codex Setup Guide (Chinese)](https://jvlangai.com/guides/codex) - Learn third-party API configuration, configuration precedence and common authentication error diagnosis in Codex. `Beginner`
+
