@@ -17,6 +17,7 @@
 - [The Illustrated GPT-2 (Jay Alammar)](https://jalammar.github.io/illustrated-gpt2/) - Visual explanation of how GPT models work. `Beginner`
 - [Lil'Log: LLM-Powered Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Deep dive into LLM agents and their capabilities. `Intermediate`
 - [Anthropic: Claude Documentation](https://docs.anthropic.com/en/docs/intro-to-claude) - Free guides for working with Claude AI and understanding LLMs. `Beginner`
+- [Company, Model Name, Access Interface: One Checked Example](https://gist.github.com/henu-wang/bc1fd91fcaebf00c2402af3ba96744e1) - Separate organization, model-family naming and access-interface labels with an official-homepage example and a reusable source-checking row. `Beginner`
 - [State of GPT (Andrej Karpathy)](https://www.youtube.com/watch?v=bZQun8Y4L2A) - Talk explaining how GPT models are trained and used. `Beginner`
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - Visual walkthrough of diffusion models. `Beginner`
 
