@@ -16,6 +16,7 @@
 - [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - Open-source creative AI toolkit with professional features. `Beginner`
 - [Civitai](https://civitai.com/) - Community platform for sharing models, LoRAs, and prompts. `All Levels`
 - [OpenArt](https://openart.ai/) - Platform for discovering AI art workflows and prompts. `Beginner`
+- [Photoshoot](https://photoshoot.app/?utm_source=github_com&utm_medium=backlink&utm_campaign=202609_w7_backlinks) - AI commercial photography studio that turns product photos into studio-grade e-commerce shots, model photos, and campaign imagery. Freemium with 30 free credits. `Beginner`
 
 ### Reading & Research
 
