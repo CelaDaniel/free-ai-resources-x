@@ -15,6 +15,7 @@
 - [Prompt Engineering Guide (DAIR.AI)](https://www.promptingguide.ai/) - Community-driven comprehensive guide to prompt techniques. `All Levels`
 - [Learn Prompting](https://learnprompting.org/) - Free open-source guide covering beginner to advanced prompting. `All Levels`
 - [Google: Prompting Guide for Gemini](https://ai.google.dev/gemini-api/docs/prompting-intro) - Official prompting guide for Google's Gemini models. `Beginner`
+- [Aeneia: Twój pierwszy dobry prompt](https://ai.aeneia.pl/demo/lekcje/pierwszy-dobry-prompt) - Free Polish-language sample lesson with an exercise and quiz; the wider course is a separate paid offer. `Beginner`
 
 ### Advanced Techniques & Practice
 
