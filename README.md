@@ -112,6 +112,7 @@ Not sure where to start? Choose your level:
 | [**AI in Finance**](resources/ai-finance.md) | Algorithmic trading, risk modeling, financial ML | 13 |
 | [**Robotics & Autonomous Systems**](resources/robotics.md) | ROS, robot learning, autonomous vehicles | 14 |
 
+[Export Gemini Chats to PDF](https://chromewebstore.google.com/detail/mmgbhlbbnlpcndmhgnghhembmincbibd) - Export Gemini chat history to PDF & Markdown. Easily backup AI conversations with full cloud storage sync.
 ### 🔧 Data & Systems
 *Specialized data processing and architectures*
 
