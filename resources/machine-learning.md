@@ -24,3 +24,4 @@
 - [Scikit-learn Documentation & Tutorials](https://scikit-learn.org/stable/tutorial/index.html) - Official tutorials for the most popular Python ML library. `Beginner`
 - [Kaggle Competitions](https://www.kaggle.com/competitions) - Real-world ML competitions to practice and build your portfolio. `All Levels`
 - [MLflow Documentation](https://mlflow.org/docs/latest/index.html) - Free open-source platform for managing the ML lifecycle. `Intermediate`
+- [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab) - NumPy-only ML algorithm workbooks with numerical self-checks and deliberate failure cases. `Intermediate`
