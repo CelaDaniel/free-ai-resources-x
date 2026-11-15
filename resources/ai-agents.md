@@ -24,3 +24,4 @@
 - [The Landscape of Emerging AI Agent Architectures](https://arxiv.org/abs/2404.11584) - Survey paper on agent architectures. `Advanced`
 - [Awesome AI Agents (GitHub)](https://github.com/e2b-dev/awesome-ai-agents) - Curated list of AI agent projects and resources. `All Levels`
 - [AI Agent Protocols (MCP)](https://modelcontextprotocol.io/) - Open protocol for connecting AI agents to data and tools. `Intermediate`
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Public hosted Model Context Protocol (MCP) server for searching 6,500+ live-music venues and tour routes across North America. `Intermediate`
