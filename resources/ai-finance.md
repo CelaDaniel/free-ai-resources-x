@@ -23,3 +23,4 @@
 - [Zipline](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library for backtesting. `Intermediate`
 - [Microsoft Forecasting Repository](https://github.com/microsoft/forecasting) - Financial forecasting tutorials and best practices. `Intermediate`
 - [SSRN: Financial ML Papers](https://papers.ssrn.com/sol3/Jeljour_results.cfm?form_name=journalBrowse&journal_id=3930309) - Free access to financial ML research papers. `Advanced`
+- [Worked Example: First-Pass Private-Company Due Diligence](https://www.ddscore.ai/example-report) - A fictional case for practicing how to check the evidence behind AI-assisted findings and turn gaps into follow-up questions for investors. `Intermediate`
